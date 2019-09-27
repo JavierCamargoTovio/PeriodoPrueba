@@ -46,10 +46,12 @@ public class TripadvisorStep {
     public void imprimirConsola()  {
        tripadvisorPage.imprimirConsolaOpninion();
     }
-    public void escribirCalificacion(){
+    public void escribirCalificacion() throws AWTException, InterruptedException {
         tripadvisorPage.clickOpinion();
         tripadvisorPage.excelente();
-        tripadvisorPage.escribirOpinion();
+        tripadvisorPage.escribirOpinion(datos[2],datos[3],datos[4],datos[5],datos[6],datos[7]);
+        tripadvisorPage.iniciarSesion(datos[8],datos[9]);
+
     }
 
 }

@@ -1,2 +1,2 @@
-id,txtCiudad
-001,Quibdó
+id,txtCiudad,tituloComentario,cuerpoComentario,razonVisita,fichaVisita,tipoComida,comidaRecomendada,email,password
+001,Quibdó,Realmente Delicioso,Este pollo al carbón es realmente delicioso lo puedes pedir con papas y ensalada también lo sirven con sopa de pollo.,Almuerzo,Julio de 2019,Colombiana,Mojara Frita con Arroz de coco,javiecamargo22@gmail.com,camargo029207

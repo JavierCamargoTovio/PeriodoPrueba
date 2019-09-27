@@ -33,5 +33,6 @@ public class TripadvisorDefinition {
     @Then("^diligenciamiento de la oponión excelente$")
     public void diligenciamiento_de_la_oponión_excelente() throws InterruptedException, AWTException {
       tripadvisorStep.escribirCalificacion();
+
     }
 }

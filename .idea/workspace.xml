@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d4720df-898d-4759-a2b8-0e5a02b79af5" name="Default Changelist" comment="" />
+    <list default="true" id="2d4720df-898d-4759-a2b8-0e5a02b79af5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.choucair.base/src/test/java/com/choucair/formacion/definition/TripadvisorDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.choucair.base/src/test/java/com/choucair/formacion/definition/TripadvisorDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.choucair.base/src/test/java/com/choucair/formacion/pageobjects/TripadvisorPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.choucair.base/src/test/java/com/choucair/formacion/pageobjects/TripadvisorPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.choucair.base/src/test/java/com/choucair/formacion/steps/TripadvisorStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/com.choucair.base/src/test/java/com/choucair/formacion/steps/TripadvisorStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com.choucair.base/src/test/resources/Datadriven/DtsDriven.csv" beforeDir="false" afterPath="$PROJECT_DIR$/com.choucair.base/src/test/resources/Datadriven/DtsDriven.csv" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,15 +22,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RI1cYDT2QAjATb4XHlVhe2b2RG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/com.choucair.base" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SegundoProyecto" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jcamargot\Desktop\PeriodoPrueba\com.choucair.base" />
       <recent name="C:\Users\jcamargot\Desktop\PeriodoPrueba\com.choucair.base\src\test\resources\Datadriven" />
       <recent name="C:\Users\jcamargot\Desktop\PeriodoPrueba\com.choucair.base\src\test\resources\driver" />
     </key>
@@ -94,5 +107,18 @@
       <updated>1569339875615</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
